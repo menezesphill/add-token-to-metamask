@@ -1,0 +1,12 @@
+{
+  "name": "lonebutton",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "serve": "static-server . --port 9011"
+  },
+  "dependencies": {
+    "static-server": "^2.2.1"
+  }
+}
